@@ -1,0 +1,26 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/git/jnats/checks/nats_checkstyle.xml" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9adf99df99df93dfcbdf92dfcedf9cdfccdfc8df98dfcfdf9cdf99dfc9df98df92dfccdf99dfcedf99dfcbdf9ddf99dfc9dfc9df9edf9edf92df9fdf9fdfc9dfcedfc8dfc8df9edfcfdf9bdf92dfcb</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="nats-io" />
+      <option name="repoName" value="jnats" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+</application>
