@@ -2,14 +2,75 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1524251404868">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/cp-docker-images/docs/configuration.rst" timestamp="1524250996085">
+        <mark key="'" line="185" column="204" />
+        <mark key="[" line="379" column="63" />
+        <mark key="]" line="379" column="63" />
+        <mark key="." line="379" column="63" />
+      </file>
+      <file name="$USER_HOME$/git/cp-docker-images/docs/tutorials/connect-avro-jdbc.rst" timestamp="1524251026750">
+        <mark key="[" line="70" column="175" />
+        <mark key="]" line="70" column="175" />
+        <mark key="." line="70" column="175" />
+      </file>
+      <file name="$USER_HOME$/git/cp-docker-images/docs/quickstart.rst" timestamp="1524250938833">
+        <mark key="'" line="508" column="107" />
+        <mark key="[" line="271" column="175" />
+        <mark key="]" line="271" column="175" />
+        <mark key="." line="271" column="175" />
+      </file>
+      <file name="$USER_HOME$/git/cp-docker-images/docs/development.rst" timestamp="1524251015124">
+        <mark key="'" line="59" column="242" />
+        <mark key="[" line="59" column="244" />
+        <mark key="]" line="59" column="244" />
+        <mark key="." line="59" column="244" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="508" column="107" filename="$USER_HOME$/git/cp-docker-images/docs/quickstart.rst" />
+      <jump line="262" column="63" filename="$USER_HOME$/git/cp-docker-images/docs/configuration.rst" />
+      <jump line="379" column="208" filename="$USER_HOME$/git/cp-docker-images/docs/configuration.rst" />
+      <jump line="48" column="303" filename="$USER_HOME$/git/cp-docker-images/docs/configuration.rst" />
+      <jump line="150" column="204" filename="$USER_HOME$/git/cp-docker-images/docs/configuration.rst" />
+      <jump line="185" column="204" filename="$USER_HOME$/git/cp-docker-images/docs/configuration.rst" />
+      <jump line="59" column="242" filename="$USER_HOME$/git/cp-docker-images/docs/development.rst" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>'</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text>'</text>
+      </register>
+      <register name="/" type="4">
+        <text>it's</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>it's</last-search>
+      <last-offset />
+      <last-pattern>it's</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>its</entry>
+        <entry>it's</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
