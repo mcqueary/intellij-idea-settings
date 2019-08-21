@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Try Statements/Replace Try-With-Resources with Try-Finally" />
-  </component>
-</application>
