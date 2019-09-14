@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="nats-req" type="PLAIN_TEXT" />
-      <mapping pattern="nats-rply" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
